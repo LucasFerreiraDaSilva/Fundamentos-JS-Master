@@ -1,5 +1,5 @@
 const nome = "Lucas";
-const idade= 25tA ;
+const idade= 25;
 const bebidaMaior = "Cerveja"
 const bebidaMenor = "Suco"
 
